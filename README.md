@@ -1,5 +1,5 @@
 # OA
-Repository with available dataset: Learning objects
+**Repository with available dataset 1: Learning objects**
 
 The data set called datos_moodle contains the actions carried out by each student while interacting in the academic year. Table 1 shows the values ​​of each action identified.
 
@@ -29,3 +29,8 @@ H_EXAM3 - O15,
 CAM_RES - O16
 
 ![vector2](https://user-images.githubusercontent.com/129623315/231578345-26469adf-9c38-4e7e-a6b5-e3644c82eb6c.png)
+
+**Repository with available dataset 2: FSLSM Index**
+It is made up of the labels resulting from the FSLSM Index questionnaires applied to the students, as shown below in the table.
+![etiquetas](https://user-images.githubusercontent.com/129623315/231582591-47a290ef-cfba-46bc-8547-6135121275df.png)
+
