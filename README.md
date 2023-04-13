@@ -36,3 +36,4 @@ It is made up of the labels resulting from the FSLSM Index questionnaires applie
 
 ![etiquetas](https://user-images.githubusercontent.com/129623315/231582591-47a290ef-cfba-46bc-8547-6135121275df.png)
 
+It contains the format of the questionnaire that was applied to the students to determine the learning style called TEST questionnaire Felder Silverman
