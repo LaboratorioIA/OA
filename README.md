@@ -1,8 +1,17 @@
 # OA
 **Repository with available dataset 1: Learning objects**
 
-The data set called datos_moodle contains the actions carried out by each student while interacting in the academic year. Table 1 shows the values of each action identified.
+The data set called datos_moodle contains the actions carried out by each student while interacting in the academic year. Table 1 shows the values of each action identified. 
+This dataset was analyzed in the following article. We kindly request that you cite it when using it.
 
+@inproceedings{pineda2023automatic,
+  title={Automatic identification of learning styles through behavioral patterns},
+  author={Pineda-Arizmendi, Mar{\'\i}a Guadalupe and Hern{\'a}ndez-Casta{\~n}eda, {\'A}ngel and Garc{\'\i}a-Hern{\'a}ndez, Ren{\'e} Arnulfo and Ledeneva, Yulia and Cruz Reyes, Jos{\'e} Rafael},
+  booktitle={Mexican Conference on Pattern Recognition},
+  pages={79--88},
+  year={2023},
+  organization={Springer}
+}
 
 ![actions](https://user-images.githubusercontent.com/129623315/231536852-17f8f6f7-7b65-4e8f-9c1f-6b6f1a16945a.png)
 
